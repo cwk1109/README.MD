@@ -22,4 +22,4 @@ Press 'Adventure' to get into the battle interface on the initial interface.
 Press 'a' key for normal attack and 'p' key for masterstroke to slay the monster.
 Press '1' or '2' to pick one of the gifts after shutting down each monster.
 Press 'r' key to reviving if you have medicine.
-Press 'q' key to end the game.
+Press 'Quit' to end the game.
