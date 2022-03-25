@@ -1,7 +1,7 @@
 Group members : 
 
 CHEN WING KI (3035873353)
-NAME (UID)
+Kato Hiroshi (3035946643)
 
 Description : 
 
@@ -17,9 +17,18 @@ The game ends when the player slay the final monster and find the treasure; or b
 Game rules :
 
 Name and select the character on the initial interface.
-Press 'Status' to get into the character attribute interface and check the character status (optional) on the initial interface.
-Press 'Adventure' to get into the battle interface on the initial interface.
+Press 'S' to get into the character attribute interface and check the character status (optional) on the initial interface.
+Press 'A' to get into the battle interface on the initial interface.
 Press 'a' key for normal attack and 'p' key for masterstroke to slay the monster.
 Press '1' or '2' to pick one of the gifts after shutting down each monster.
 Press 'r' key to reviving if you have medicine.
-Press 'Quit' to end the game.
+Press 'Q' to end the game.
+
+Features : 
+
+Classes used to define characters with multiple talents to start with and different enemies with different attribute.
+Enemy status will be randomly selected within a range and some of the skills may include the use of probabilities.
+Game status stored using file input/ouput.
+Initialization of character and enemies will be divided into different files.
+Use of Arrays to store all the enemies.
+Items will be dropped randomly after a battle and the effect of items are recorded in character class.
